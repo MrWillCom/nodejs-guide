@@ -7,3 +7,4 @@
     - [命令行](./getting-started/command-line.md)
     - [GUI](./getting-started/gui.md)
     - [纯文本](./getting-started/plain-text.md)
+    - [Git](./getting-started/git.md)
