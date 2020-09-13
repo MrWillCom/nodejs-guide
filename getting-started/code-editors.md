@@ -17,6 +17,8 @@
 ### Emacs
 
 ## 图形界面
+[Emacs](https://www.gnu.org/software/emacs/) 是一款专业的代码编辑器，支持命令行和 [GUI](./gui.md)，与 Vim 不同，但同样需要[命令行](./command-line.md)使用基础，并且需要记忆很多命令。
+
 
 ### Visual Studio Code
 
