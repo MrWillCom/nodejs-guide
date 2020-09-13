@@ -14,9 +14,17 @@
 
 [Vim](https://www.vim.org/) 是一款专业的代码编辑器，支持命令行和 [GUI](./gui.md) (gvim)，在 [Linux](https://www.linux.org/) 中一般预装了 Vim，所以无需安装。你需要学习 Vim 才能使用它，如果你对[命令行](./command-line.md)还不熟悉，那么你需要先学习[命令行](./command-line.md)。
 
+#### 参考文献
+
+- [Vim](https://www.vim.org/)
+
 ### Emacs
 
 [Emacs](https://www.gnu.org/software/emacs/) 是一款专业的代码编辑器，支持命令行和 [GUI](./gui.md)，与 Vim 不同，但同样需要[命令行](./command-line.md)使用基础，并且需要记忆很多命令并学习 Emacs Lisp 语言。
+
+#### 参考文献
+
+- [Emacs](https://www.gnu.org/software/emacs/)
 
 ## [GUI](./gui.md)
 
