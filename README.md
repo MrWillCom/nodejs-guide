@@ -4,5 +4,6 @@
 
 ## TOC
 
+- [TOC](./toc.md)
 - [入门](./getting-started/)
 
