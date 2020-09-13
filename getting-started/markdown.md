@@ -145,3 +145,8 @@ a = a + b; //'string++'
 | ------------ | ------------- |
 | Content from cell 1 | Content from cell 2 |
 | Content in the first column | Content in the second column |
+
+## 参考文献
+
+- [Daring Fireball: Markdown Basics](https://daringfireball.net/projects/markdown/basics)
+- [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
