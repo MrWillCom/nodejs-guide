@@ -18,9 +18,7 @@
 
 ### Visual Studio Code
 
-### Atom
-
-### Sublime Text
+### TextMate (macOS)
 
 ## IDE
 
