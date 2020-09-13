@@ -24,6 +24,7 @@
 
 #### 参考文献
 
-- [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+- [Visual Studio Code - Code Editing. Redefined (code.visualstudio.com)](https://code.visualstudio.com/)
+- [microsoft/vscode: Visual Studio Code (github.com)](https://github.com/microsoft/vscode)
 
 ### TextMate (macOS)
