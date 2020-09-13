@@ -12,6 +12,8 @@
 
 ### Vim
 
+[Vim](https://www.vim.org/) 是一款专业的命令行代码编辑器，在 [Linux](https://www.linux.org/) 中一般预装了 Vim，所以无需安装。你需要学习 Vim 才能使用它，如果你对[命令行](./command-line.md)还不熟悉，那么你需要先学习[命令行](./command-line.md)。
+
 ### Emacs
 
 ## 图形界面
