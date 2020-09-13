@@ -148,5 +148,5 @@ a = a + b; //'string++'
 
 ## 参考文献
 
-- [Daring Fireball: Markdown Basics](https://daringfireball.net/projects/markdown/basics)
-- [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+- [Daring Fireball: Markdown Basics (daringfireball.net)](https://daringfireball.net/projects/markdown/basics)
+- [Mastering Markdown · GitHub Guides (guides.github.com)](https://guides.github.com/features/mastering-markdown/)
