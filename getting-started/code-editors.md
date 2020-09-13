@@ -19,9 +19,3 @@
 ### Visual Studio Code
 
 ### TextMate (macOS)
-
-## IDE
-
-### Eclipse
-
-### WebStorm
