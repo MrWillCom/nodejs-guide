@@ -10,7 +10,7 @@ Markdown 文件扩展名一般为 `md`，你可以使用[纯文本](./plain-text
 
 你也可以使用其它主流 Markdown 编辑器，如 [Typora](#Typora)、[Obsidian](#Obsidian)，或[代码编辑器](./code-editors.md)。
 
-主流代码编辑器都对与 Markdown 有很好的支持，比如 Visual Studio Code、Vim、Emacs 等。
+几乎所有主流[代码编辑器](./code-editors.md)都支持 Markdown，如 Visual Studio Code、Vim、Emacs 等。
 
 ### Typora
 
