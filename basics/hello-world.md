@@ -1,10 +1,10 @@
 # Hello, World!
 
-Hello, World 将是你的第一个 JavaScript 应用，它将在命令行输出一行字符——“Hello, World”。
+Hello, World 将是你的第一个 JavaScript 应用，它将在控制台输出一行字符——“Hello, World”。
 
 ## 配置开发环境
 
-此应用不仅可以在 Node.js 环境下运行，也可以直接在浏览器环境里运行。因此，编写此应用的最简单的方式是使用浏览器的 JavaScript 命令行。
+此应用不仅可以在 Node.js 环境下运行，也可以直接在浏览器环境里运行。因此，编写此应用的最简单的方式是使用浏览器的 JavaScript 控制台。
 
 你可以打开浏览器的开发人员工具，并切换到“Console”页。
 
@@ -35,7 +35,7 @@ console.log('Hello, World!')
 
 ![在浏览器中运行 Hello, World! 应用](./img/screenshot-of-hello-world-program-on-browser.png)
 
-此应用已成功向命令行输出了“Hello, World”。
+此应用已成功向控制台输出了“Hello, World”。
 
 ## 在 Node.js 中运行
 
@@ -47,7 +47,7 @@ console.log('Hello, World!')
 node ./hello-world.js
 ```
 
-如果你还没有把代码输入到此文件，那么命令行中将什么也不会输出，因此你需要把代码输入到文件中再执行上述命令，此时命令行将会输出：
+如果你还没有把代码输入到此文件，那么控制台中将什么也不会输出，因此你需要把代码输入到文件中再执行上述命令，此时控制台将会输出：
 
 ```output
 Hello, World!
