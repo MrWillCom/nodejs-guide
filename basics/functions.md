@@ -81,3 +81,11 @@ var result = abs(-5);
 ```
 
 这时候，`result` 的值是 `5`。
+
+除了使用 `function` 关键字定义函数外，还可以使用箭头标记定义：
+
+```js
+var arrowDefination = (str) => {
+    console.log(str);
+};
+```
