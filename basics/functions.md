@@ -89,3 +89,8 @@ var arrowDefination = (str) => {
     console.log(str);
 };
 ```
+
+## 参考文献
+
+- [函数 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions)
+- [箭头函数 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
