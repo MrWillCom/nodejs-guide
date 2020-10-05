@@ -58,3 +58,8 @@ pi = 3.4151;
 - 名称不得以数字起头，如 `3c`。
 - 名称不得与关键字相同，如 `var`、`if`。
 - 名称中不得含有空格。
+
+## 参考文献
+
+- [var 描述 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/var)
+- [const - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/const)
