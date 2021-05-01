@@ -9,3 +9,5 @@
 - [Hello, World!](./hello-world.md)
 - [变量和常量](./variables-and-constants.md)
 - [函数](./functions.md)
+- [数组](./arrays.md)
+- [对象](./objects.md)
