@@ -62,4 +62,4 @@ console.log(myArray.length);
 var newArrayCreatedWithNew = new Array();
 ```
 
-这也就揭露了 JavaScript 中，数组的本质实际上是一个对象。
+这也就揭露了在 JavaScript 中，数组的本质实际上是一个对象。
